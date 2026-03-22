@@ -14,8 +14,8 @@ This is a user-friendly calculator application built using Python and Tkinter. I
 3. Run the file:
 ```bash
 python calculator.py
-
-# Author : Chinthana
+```
+## Author : Chinthana
 
 
 ---
