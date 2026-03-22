@@ -211,3 +211,29 @@ app = QApplication(sys.argv)
 window = TodoApp()
 window.show()
 sys.exit(app.exec_())
+
+
+---
+
+# 5️⃣ To-Do List Project
+
+```markdown
+# To-Do List Project
+
+## Description
+A Python GUI application to manage your daily tasks. Tasks can be marked as medium, high, or low priority.
+
+## Features
+- Add tasks with priority (Medium, High, Low)
+- View all tasks
+- Delete tasks
+- User-friendly interface
+
+## How to Run
+1. Install Python (preferably 3.x)
+2. Install Tkinter or PyQt5 (based on your version)
+3. Run the file:
+```bash
+python todo_list.py
+
+Author : Chinthana
