@@ -40,3 +40,27 @@ A contact management application in Python. You can add, view, search, and delet
 python contact_book.py
 ```
 Author : Chinthana
+
+---
+
+#  Password Generator Project
+
+
+## Description
+A Python application to generate strong and secure passwords of desired length. Built using Tkinter for GUI.
+
+## Features
+- Generate passwords with letters, numbers, and symbols
+- Copy password to clipboard
+- Clear input and output
+- Easy-to-use GUI
+
+## How to Run
+1. Install Python (preferably 3.x)
+2. Install Tkinter
+3. Run the file:
+```bash
+python password_generator.py
+```
+Author : Chinthana
+
