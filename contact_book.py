@@ -258,3 +258,28 @@ scrollbar.config(command=listbox.yview)
 listbox.bind("<<ListboxSelect>>", select_contact)
 
 root.mainloop()
+
+
+---
+
+# 2️⃣ Contact Book Project
+
+```markdown
+# Contact Book Project
+
+## Description
+A contact management application in Python. You can add, view, search, and delete contacts. Optional fields like email and address are also supported.
+
+## Features
+- Add, View, Search, and Delete contacts
+- Stores contacts in JSON / text file
+- Validates phone numbers (exactly 10 digits)
+- Displays email & address if available
+
+## How to Run
+1. Install Python (preferably 3.x)
+2. Run the file:
+```bash
+python contact_book.py
+
+Author : Chinthana
