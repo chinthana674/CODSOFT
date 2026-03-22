@@ -64,3 +64,24 @@ python password_generator.py
 ```
 Author : Chinthana
 
+---
+
+#  Rock-Paper-Scissors Game Project
+
+
+## Description
+A simple Rock-Paper-Scissors game built with Python and PyQt5. Play against the computer with an interactive GUI.
+
+## Features
+- Play Rock, Paper, or Scissors against computer
+- Scores update automatically
+- Fun and interactive GUI
+
+## How to Run
+1. Install Python (preferably 3.x)
+2. Install PyQt5:
+```bash
+pip install PyQt5
+```
+Author : Chinthana
+
