@@ -20,10 +20,9 @@ python calculator.py
 
 ---
 
-# 2️⃣ Contact Book Project
+#  Contact Book Project
 
-```markdown
-# Contact Book Project
+
 
 ## Description
 A contact management application in Python. You can add, view, search, and delete contacts. Optional fields like email and address are also supported.
@@ -39,5 +38,5 @@ A contact management application in Python. You can add, view, search, and delet
 2. Run the file:
 ```bash
 python contact_book.py
-
+```
 Author : Chinthana
