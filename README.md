@@ -84,7 +84,7 @@ A simple Rock-Paper-Scissors game built with Python and PyQt5. Play against the 
 pip install PyQt5
 ```
 3. Run the file:
-4. ```bash
+    ```bash
    python rps_game.py
    ```
 Author : Chinthana
